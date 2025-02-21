@@ -1,4 +1,4 @@
-# [Single Element CSS Spinners](http://projects.lukehaas.me/css-loaders)
+# [Single Element CSS Spinners](https://lukehaas.me/projects/css-loaders)
 
 This is a collection of loading spinners animated with CSS.
 
@@ -13,9 +13,9 @@ Each loader is given a font size in pixels and all other sizes are in ems so to 
 
 ## Demo
 
-[![css-loaders-screenshot](https://raw.githubusercontent.com/lukehaas/css-loaders/step2/images/css-loaders-screenshot.jpg)](http://projects.lukehaas.me/css-loaders)
+[![css-loaders-screenshot](https://raw.githubusercontent.com/lukehaas/css-loaders/step2/images/css-loaders-screenshot.jpg)](https://lukehaas.me/projects/css-loaders)
 
-> [Check it live](http://projects.lukehaas.me/css-loaders).
+> [Check it live](https://lukehaas.me/projects/css-loaders).
 
 ## Browser Support
 
